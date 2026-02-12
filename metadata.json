@@ -1,0 +1,8 @@
+{
+  "name": "RoyaltyNotes Pro",
+  "description": "A professional notebook application featuring rich text notes, timeboxed task management, AI-powered meeting transcription, and smart recurring reminders.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
